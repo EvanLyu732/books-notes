@@ -4,5 +4,145 @@
 ** Book: Traction: How Any Startup Can Achieve Explosive Customer Growth
 ** Link: https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer-ebook/dp/B00TY3ZOMS?ref_=ast_author_mpb
 ** Notes:
+- Traction is the best way to improve your chances of startup success. Traction is a signthat something is working. If you charge for your product, it means customers are
+buying. If your product is free, it’s a growing user base. 
+Traction is powerful. Technical, market, and team risks are easier to address with
+traction. Fund-raising, hiring, press, partnerships, and acquisitions all become much
+easier. 
+In other words, traction trumps everything.
+
+-  Founders have an idea for a company they’re excited about. Initial excitement turns
+into a struggle to build a product, but they do get something out the door. 
+
+-  Traction is a sign that your company is
+taking off. It’s obvious in your core metrics: If you have a mobile app, your download
+rate is growing rapidly. If you’re running a subscription service, your monthly revenue is
+skyrocketing. If you’re an organic bakery, your number of transactions is increasing
+every week. You get the point. 
+
+- Traction is basically quantitative evidence of customer demand. So if you’re in enterprise
+software, [initial traction] may be two or three early customers who are paying a bit; if
+you’re in consumer software the bar might be as high as hundreds of thousands of users.   --- Naval
+
+- A startup is a company designed to grow fast. Being newly founded does not in itself make
+a company a startup. Nor is it necessary for a startup to work on technology, or take
+venture funding, or have some sort of “exit.” The only essential thing is growth. Everything
+else we associate with startups follows from growth. 
+
+Traction is growth. The pursuit of traction is what defines a startup.
+
+- The number one reason that we pass on entrepreneurs we’d otherwise like to back is
+they’re focusing on product to the exclusion of everything else. Many entrepreneurs who
+build great products simply don’t have a good distribution strategy. Even worse is when
+they insist that they don’t need one, or call [their] no distribution strategy a “viral
+marketing strategy.”
+
+- Having a product or service that your early customers love, but having no clear way to
+get more traction is a major problem. To solve this problem, spend your time
+constructing your product or service and testing traction channels in parallel.
+
+- Traction and product development are of equal importance and should each get about
+half of your attention. This is what we call the 50 percent rule: spend 50 percent of
+your time on product and 50 percent on traction.
+
+- First, you could build something people want, but for which you just can’t figure out a
+viable business model. The money isn’t adding up. For example, people won’t pay, and
+selling advertising won’t cover the bills. There is just no real market. 
+
+  Second, you could build something people want, but there are just not enough
+customers to reach profitability. It’s just too small a market, and there aren’t obvious
+ways to expand. This occurs often when startups aren’t ambitious enough and pick too
+narrow a niche.
+
+- Third, you could build something people want, but reaching them is cost prohibitive.
+You find yourself in a hard-to-reach market. An example is a relatively inexpensive
+product that requires a direct sales force to sell it. That combo just doesn’t work. 
+
+- Finally, you could build something people want, but a lot of other companies build it
+too. In this situation you are in a hypercompetitive market where it is simply too hard to
+get customers.
+
+- If you follow the 50 percent rule from the beginning, then you will have the best
+chance of avoiding these traps. If you don’t, then you risk realizing you’re in one of
+these traps too late to do anything useful. Unfortunately this happens to a lot of
+companies postlaunch. The sad thing is that often these products and services are
+useful, =but the companies die because they don’t have a good distribution strategy.=
+
+- First, it helps you build the right product because you can incorporate knowledge from
+your traction efforts. If you’re following a good product development process, you’re
+already getting good feedback from early customers. However, these customers are
+generally too close to you. They often tell you what you want to hear.
+
+- Through traction development you get a steady stream of cold customers. It is through
+these people that you can really find out whether the market is taking to your product
+or not, and if not, what features are missing or which parts of the experience are
+broken.
+
+- You can think of your initial investment in traction as pouring water into a leaky bucket.
+At first your bucket will be very leaky because your product is not yet a full solution to
+customer needs and problems. In other words, your product is not as sticky as it could
+be, and many customers will not want to engage with it yet. As a consequence, much of
+the money you are spending on traction will leak out of your bucket.
+
+- This is exactly what happened with Dropbox. While developing their product, they
+tested search engine marketing and found it wouldn’t work for their business. They
+were acquiring customers for $230 when their product cost only $99. That’s when they
+focused on the viral marketing traction channel, and built a referral program right into
+their product. This program has since been their biggest growth driver.
+
+- From the perspective of getting traction, you can think about working on a product or
+service in three phases: 
+    Phase I—making something people want 
+
+    Phase II—marketing something people want 
+
+    Phase III—scaling your business
+
+- As Paul Graham said in his essay “Do Things That Don’t Scale”: 
+A lot of would-be founders believe that startups either take off or don’t. You build
+something, make it available, and if you’ve made a better mousetrap, people beat a path
+to your door as promised. Or they don’t, in which case the market must not exist. 
+Actually startups take off because the founders make them take off. . . .
+
+The most common unscalable thing founders have to do at the start is to recruit users manually. Nearly all
+startups have to. You can’t wait for users to come to you. You have to go out and get them.
+
+- =We strongly believe that many startups give up way too early.= A lot of startup success
+hinges on choosing a great market at the right time. Consider DuckDuckGo, the search
+engine startup that Gabriel founded. Other search startups gave up after two years:
+Gabriel has been at it for more than seven. 
+
+- =Put half your efforts into getting traction.= Pursue traction and product
+development in parallel, and spend equal time on both. Think of your product as
+a leaky bucket. Your early traction efforts are pointing you toward the holes
+worth plugging.
+
+- =Set your growth goals.= Focus on strategies and tactics that can plausibly move
+the needle for your company. Get some hard numbers.
+
+- =Learn what growth numbers potential investors respect.= How much traction is
+needed for investors is a moving target, but a sustainable customer growth rate
+is hard for investors to ignore. Potential investors who understand your business
+are likely to appreciate your traction and thus invest earlier. Traction trumps
+everything.
+
+- =Find your bright spots.= If you’re not seeing the traction you want, look for bright
+spots in your customer base, pockets of customers who are truly engaged with
+your product. See if you can figure out why it works for them and if you can
+expand from that base. If there are no bright spots, it may be a good time to
+pivot.
+
+- __[You] probably won’t have a bunch of equally good distribution strategies. Engineers
+frequently fall victim to this because they do not understand distribution. Since they don’t
+know what works, and haven’t thought about it, they try some sales, BD, advertising, and
+viral marketing—everything but the kitchen sink. 
+That is a really bad idea. It is very likely that one channel is optimal. Most businesses
+actually get zero distribution channels to work. =Poor distribution—not product—is the
+number one cause of failure.= If you can get even a single distribution channel to work, you
+have great business. If you try for several but don’t nail one, you’re finished. So it’s worth
+thinking really hard about finding the single best distribution channel.__
+
 - 
+
+
 
