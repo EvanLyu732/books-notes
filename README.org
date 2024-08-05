@@ -219,4 +219,91 @@ words, “if you build it, they will come” is wrong.=
 - You don't have to be a CEO to practice being a leader of the business and a leader of people. Say you're a product line manager. The thought process is the same. Assess the fundamentals of the product line and consider why they are going one way or the other and how they might be improved. When you know what must be done, think about the people around you. Do they have the skills and talents required? How can you coach them? What kind of Social Operating Mechanisms might speed the flow of information and decisions?
 - Some of you have the intellectual capacity to cut through complexity but are indecisive or afraid of being wrong. Can you wait until all the facts are in and the picture is clearer? Here's the rub: =You make a bet even when you don't make a bet!= That is, by not choosing to do anything different, you are choosing the status quo.
 
+** Book: The Innovator's Dilemma
+** Link: https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma
+** Notes:
+- The research reported in this book supports this latter view: It shows that in the cases of well-managed firms such as those cited above, good management was the most powerful reason they failed to stay atop their industries. Precisely because these firms listened to their customers, invested aggressively in new technologies that would provide their customers more and better products of the sort they wanted, and because they carefully studied market trends and systematically allocated investment capital to innovations that promised the best returns, they lost their positions of leadership.
+- Some sustaining technologies can be discontinuous or radical in character, while others are of an incremental nature. =What all sustaining technologies have in common is that they improve the performance of established products, along the dimensions of performance that mainstream customers in major markets have historically valued=. Most technological advances in a given industry are sustaining in character. An important finding revealed in this book is that rarely have even the most radically difficult sustaining technologies precipitated the failure of leading firms.
 
+  Occasionally, however, =disruptive technologies= emerge: =innovations that result in worse product
+  performance, at least in the near-term.= Ironically, in each of the instances studied in this book, it was
+  disruptive technology that precipitated the leading firms’ failure.
+- Principle #1: Companies Depend on Customers and Investors for Resources
+- The highest-performing companies, in fact, are those that are the best at this, that is, they have well-developed systems for killing ideas that their customers don’t want. As a result, these companies find it very difficult to invest adequate resources in disruptive technologies—lower-margin opportunities that their customers don’t want—until their customers want them. And by then it is too late.
+- Principle #2: Small Markets Don’t Solve the Growth Needs of Large Companies
+- Principle #3: Markets that Don’t Exist Can’t Be Analyzed
+- In many instances, =leadership in sustaining innovations—about which information is known and for which plans can be made is not competitively important. In such cases, technology followers do about as well as technology leaders. It is in disruptive innovations, where we know least about the market, that there are such strong first-mover advantages.= This is the innovator’s dilemma.
+- Principle #4: An Organization’s Capabilities Define Its Disabilities
+  An organization’s capabilities reside in two places. The first is in its processes—the methods by which people have learned to transform inputs of labor, energy, materials, information, cash, and technology into outputs of higher value. The second is in the organization’s values, which are the criteria that managers and employees in the organization use when making prioritization decisions.
+
+- Principle #5: Technology Supply May Not Equal Market Demand
+
+- This is one of the innovator’s dilemmas: Blindly following the maxim that good managers should keep close to their customers can sometimes be a fatal mistake.
+
+- 
+
+
+  _Q: How Does Market Be Created?_
+
+** Book: The Innovator's Dilemma
+** Link: https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma
+** Notes:
+- The research reported in this book supports this latter view: It shows that in the cases of well-managed firms such as those cited above, good management was the most powerful reason they failed to stay atop their industries. Precisely because these firms listened to their customers, invested aggressively in new technologies that would provide their customers more and better products of the sort they wanted, and because they carefully studied market trends and systematically allocated investment capital to innovations that promised the best returns, they lost their positions of leadership.
+- Some sustaining technologies can be discontinuous or radical in character, while others are of an incremental nature. =What all sustaining technologies have in common is that they improve the performance of established products, along the dimensions of performance that mainstream customers in major markets have historically valued=. Most technological advances in a given industry are sustaining in character. An important finding revealed in this book is that rarely have even the most radically difficult sustaining technologies precipitated the failure of leading firms.
+
+  Occasionally, however, =disruptive technologies= emerge: =innovations that result in worse product
+  performance, at least in the near-term.= Ironically, in each of the instances studied in this book, it was
+  disruptive technology that precipitated the leading firms’ failure.
+- Principle #1: Companies Depend on Customers and Investors for Resources
+- The highest-performing companies, in fact, are those that are the best at this, that is, they have well-developed systems for killing ideas that their customers don’t want. As a result, these companies find it very difficult to invest adequate resources in disruptive technologies—lower-margin opportunities that their customers don’t want—until their customers want them. And by then it is too late.
+- Principle #2: Small Markets Don’t Solve the Growth Needs of Large Companies
+- Principle #3: Markets that Don’t Exist Can’t Be Analyzed
+- In many instances, =leadership in sustaining innovations—about which information is known and for which plans can be made is not competitively important. In such cases, technology followers do about as well as technology leaders. It is in disruptive innovations, where we know least about the market, that there are such strong first-mover advantages.= This is the innovator’s dilemma.
+- Principle #4: An Organization’s Capabilities Define Its Disabilities
+  An organization’s capabilities reside in two places. The first is in its processes—the methods by which people have learned to transform inputs of labor, energy, materials, information, cash, and technology into outputs of higher value. The second is in the organization’s values, which are the criteria that managers and employees in the organization use when making prioritization decisions.
+
+- Principle #5: Technology Supply May Not Equal Market Demand
+
+- This is one of the innovator’s dilemmas: Blindly following the maxim that good managers should keep close to their customers can sometimes be a fatal mistake.
+
+- Value Networks: which a firm identifies and responds to customers’ needs, solves
+problems, procures input, reacts to competitors, and strives for profit
+     
+- As firms gain experience within a given network, they are likely to develop capabilities, organizational
+structures, and cultures tailored to their value network’s distinctive requirements.
+
+- Techonology S-Curve: 
+
+  [[https://miro.medium.com/v2/resize:fit:1100/format:webp/1*N_PRspLAAnZE8SehC3dPng.png]]
+
+
+#+begin_quote
+
+Step 1: Disruptive Technologies Were First Developed within Established Firms
+Step 2: Marketing Personnel Then Sought Reactions from Their Lead Customers
+Step 3: Established Firms Step Up the Pace of Sustaining Technological Development
+Step 4: New Companies Were Formed, and Markets for the Disruptive Technologies Were Found by
+Trial and Error
+   "The start-ups, however, were as unsuccessful as their former employers in attracting established
+computer makers to the disruptive architecture. Consequently, they had to find new customers."
+
+Step 5: The Entrants Moved Upmarket
+Step 6: Established Firms Belatedly Jumped on the Bandwagon to Defend Their Customer Base
+#+end_quote
+
+Value Networks HighLights:
+  - The context, or value network, in which a firm competes has a profound influence on its ability to
+marshal and focus the necessary resources and capabilities to overcome the technological and
+organizational hurdles that impede innovation.
+  - A key determinant of the probability of an innovative effort’s commercial success is the degree to
+which it addresses the well-understood needs of known actors within the value network.
+  - Established firms’ decisions to ignore technologies that do not address their customers’ needs
+become fatal when two distinct trajectories interact.
+  - Entrant firms have an attacker’s advantage over established firms in those innovations—generally
+new product architectures involving little new technology per se—that disrupt or redefine the level,
+rate, and direction of progress in an established technological trajectory.
+  - =At its core, therefore, the issue may be the relative flexibility of successful established firms versus entrant firms to change strategies and cost structures, not
+technologies.=
+
+
+  _Q: How Does Market Be Created?_
