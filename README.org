@@ -304,6 +304,33 @@ new product architectures involving little new technology per se—that disrupt 
 rate, and direction of progress in an established technological trajectory.
   - =At its core, therefore, the issue may be the relative flexibility of successful established firms versus entrant firms to change strategies and cost structures, not
 technologies.=
+  - The patterns of success and failure we see among firms faced with sustaining and disruptive technology
+change are a natural or systematic result of good managerial decisions. That is, in fact, why disruptive
+technologies confront innovators with such a dilemma. Working harder, being smarter, investing more
+aggressively, and listening more astutely to customers are all solutions to the problems posed by new
+sustaining technologies. But these paradigms of sound management are useless—even
+counterproductive, in many instances—when dealing with disruptive technology.
+  - Why could leading companies migrate so readily toward high-end markets, and why does moving downmarket appear to have been so difficult?
+    - Resources Allocation: 
+         - the first model: rational, top-down decision-making process in which senior managers weigh alternative
+proposals for investment in innovation and put money into those projects that they find to be consistent
+with firm strategy and to offer the highest return on investment.
+         - the second model: most proposals to innovate are generated from
+deep within the organization not from the top. As these ideas bubble up from the bottom, the organization’s middle managers play a critical but invisible role in screening these projects. These
+managers can’t package and throw their weight behind every idea that passes by; they need to decide
+which are the best, which are most likely to succeed, and which are most likely to be approved, given
+the corporate financial, competitive, and strategic climate.
+
+ =This is because, in fact, the best resource allocation systems are designed precisely to weed out ideas that are unlikely to find large, profitable, receptive markets. Any company that doesn’t have a systematic way of targeting its development resources toward customers’ needs, in fact, will fail.=
+
+Even when a senior manager decides to pursue a disruptive technology, the people in the organization are likely to ignore it or, at best, cooperate reluctantly if it doesn’t fit their model of what it takes to succeed as an organization and as individuals within an organization.
+
+- Individuals’ career trajectories can soar when they sponsor highly profitable innovation programs.
+
+
+
 
 
   _Q: How Does Market Be Created?_
+
+
