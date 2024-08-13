@@ -331,3 +331,173 @@ Even when a senior manager decides to pursue a disruptive technology, the people
   _Q: How Does Market Be Created?_
 
 
+** Book: Making Embedded System: Design Patterns for Great Software
+** Link: https://www.amazon.com/Making-Embedded-Systems-Patterns-Software-dp-1098151542/dp/1098151542/ref=dp_ob_title_bk
+** Notes:
+Book Recommend:
+• _Documenting Software Architectures_ by Len Bass, et al. (Addison-Wesley) is an
+excellent book that covers different architectural styles and the corresponding
+visual models.
+• _Real-Time Software Design_ for Embedded Systems by Hassan Gomaa (Cambridge
+University Press) discusses different models and diagrams you can create to
+sketch out your system.
+
+WaterFall Model:
+
+The hardware team creates schematics, while the software team works on the devel‐
+opment boards. It may seem like the hardware team is taking weeks (or months) to
+make a drawing, but most of that time is spent wading through datasheets to find a
+component that does what it needs to for the product, at the right price, in the correct
+physical dimensions, with a good temperature range, and so on.
+
+Schematics are entered using a schematic capture program (aka CAD package). These
+programs are often expensive to license and cumbersome to use, so the hardware
+engineer will usually generate a PDF schematic at checkpoints or reviews for your
+use.
+
+Because hardware engineers understand that,
+most will generate an I/O map that describes the connection attached to each pin of
+the processor. Chapter 4 suggests taking the I/O map and making a header file
+from it.
+
+[schemtic] --> [board laid out] --> [fabrication(fab)] --> [PCBA(Printed Circuit Board Assembly)]
+
+How do you know what tests need to be written? It starts with an in-depth knowledge
+of the processor and peripherals. That leads to the topic of reading a datasheet.
+
+# Reading DataSheet
+
+Datasheets are the API manuals for peripherals.
+
+# Your Processor Is a Language
+
+
+
+** Book: The Psychology of Money: Timeless lessons on wealth, greed, and happiness
+** Link:https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681 
+** Notes:
+• Luck and risk are siblings. They are both the reality that every outcome in life is
+guided by forces other than individual effort.
+• This is not an easy problem to solve. The difficulty in identifying what is luck,
+what is skill, and what is risk is one of the biggest problems we face when trying
+to learn about the best way to manage money.
+But two things can point you in a better direction.
+    /Be careful who you praise and admire. Be careful who you look down upon and wish to avoid becoming./
+
+    =Therefore, focus less on specific individuals and case studies and more on broad pattern.=
+
+/Bill Gates once said, “Success is a lousy teacher. It seduces smart people into
+thinking they can’t lose.”/
+
+• Failure can be a lousy teacher, because it seduces smart people into thinking
+their decisions were terrible when sometimes they just reflect the unforgiving
+realities of risk. The trick when dealing with failure is arranging your financialrealities of risk. The trick when dealing with failure is arranging your financial
+life in a way that a bad investment here and a missed financial goal there won’t
+wipe you out so you can keep playing until the odds fall in your favor.
+
+# 1. The hardest financial skill is getting the goalpost to stop moving.
+
+(Happiness, as it’s said, is just results minus expectations.)
+
+
+# 2. Social comparison is the problem here.
+
+# 3. “Enough” is not too little.
+
+# 4. There are many things never worth risking, no matter the potential gain.
+
+• The big takeaway from ice ages is that you don’t need tremendous force to
+create tremendous results.
+
+    * But there’s only one way to stay wealthy: some combination of frugality and paranoia.
+
+# Getting money is one thing. Keeping it is another.
+
+    * Compounding only works if you can give an asset years and years to grow. It’s like planting oak trees: A year of growth will never show much progress, 10 years can make a meaningful difference, and 50 years can create something absolutely extraordinary.absolutely extraordinary.
+    * Nassim Taleb put it this way: “Having an ‘edge’ and surviving are two different things: the first requires the second. You need to avoid ruin. At all costs.”
+
+# 1. More than I want big returns, I want to be financially unbreakable. And if I’m unbreakable I actually think I’ll get the biggest returns, because I’ll be able to stick around long enough for compounding to work wonders.
+
+# 2. Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.
+
+=(A plan is only useful if it can survive reality. And a future filled with unknowns
+is everyone’s reality.)=
+
+A good plan doesn’t pretend this weren’t true; it embraces it and emphasizes
+room for error. The more you need specific elements of a plan to be true, the
+more fragile your financial life becomes. If there’s enough room for error in your
+savings rate that you can say, “It’d be great if the market returns 8% a year over
+the next 30 years, but if it only does 4% a year I’ll still be OK,” the more
+valuable your plan becomes.
+
+# 3. A barbelled personality—optimistic about the future, but paranoid about what will prevent you from getting to the future—is vital.
+
+A mindset that can be paranoid and optimistic at the same time is hard to
+maintain, because seeing things as black or white takes less effort than accepting
+nuance. But you need short-term paranoia to keep you alive long enough to
+exploit long-term optimism.
+
+Anything that is huge, profitable, famous, or influential is the result of a tail
+event—an outlying one-in-thousands or millions event. And most of our
+attention goes to things that are huge, profitable, famous, or influential. When
+most of what we pay attention to is the result of a tail, it’s easy to underestimatemost of what we pay attention to is the result of a tail, it’s easy to underestimate
+how rare and powerful they are.
+
+A good definition of an investing genius is the man or woman who can do the
+average thing when all those around them are going crazy.
+
+Tails drive everything.
+
+
+# Controlling your time is the highest dividend money pays.
+
+The ability to do what you want, when you want, with who you want, for as long
+as you want, is priceless. It is the highest dividend money pays.
+
+Having a strong sense of controlling one’s life is a more dependable predictor of
+positive feelings of wellbeing than any of the objective conditions of life we
+have considered.
+
+More than your salary. More than the size of your house. More than the prestige
+of your job. =Control over doing what you want, when you want to, with the
+people you want to, is the broadest lifestyle variable that makes people happy.=
+
+Money’s greatest intrinsic value—and this can’t be overstated—is its ability to
+give you control over your time.
+
+# No one is impressed with your possessions as much as you are.
+
+people tend to want wealth to signal to others that they
+should be liked and admired. But in reality those other people often bypass
+admiring you, not because they don’t think wealth is admirable, but because they
+use your wealth as a benchmark for their own desire to be liked and admired.
+
+
+# Spending money to show people how much money you have is the fastest way to have less money.
+
+The only way to be wealthy is to not spend the money that you do have. It’s not just the only way to
+accumulate wealth; it’s the very definition of wealth.
+
+But wealth is hidden. It’s income not spent. Wealth is an option not yet taken to
+buy something later. Its value lies in offering you options, flexibility, and growth
+to one day purchase more stuff than you could right now.
+
+Wealth is turning down that treat meal and actually
+burning net calories. It’s hard, and requires self-control. But it creates a gap
+between what you could do and what you choose to do that accrues to you over
+time.
+
+# save money 
+
+The first idea—simple, but easy to overlook—is that building wealth has
+little to do with your income or investment returns, and lots to do with your
+savings rate.
+
+Learning to be happy with less money creates a
+gap between what you have and what you want—similar to the gap you get from
+growing your paycheck, but easier and more in your control.
+
+That flexibility and control over your time is an unseen return on wealth.
+
+
+
