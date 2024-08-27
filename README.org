@@ -570,7 +570,9 @@ do what you want, when you want, with who you want, for as long as you
 want to, pays the highest dividend that exists in finance.
 
 
+----------
 
+* 202408
 
 ** Book: The Second Law: Resolving the Mystery of the Second Law of Thermodynamics
 ** Link: https://www.amazon.com/Second-Law-Resolving-Mystery-Thermodynamics/dp/1579550835
@@ -801,7 +803,8 @@ computational limitations of observers like us.
     * Man must form a clear and definite mental image of the things he wishes to have, to do, or to become; and he must hold this mental image in his thoughts, while being deeply grateful to the Supreme that all his desires are granted to him.
     * He must keep in mind the Purpose to get rich through the realization of his mental image. And he must do, every day, all that can be done that day, taking care to do each act in a successful manner.
 
-    The Science Of Being Well
+    The Science Of Being Well:
+
     * You getting well does not depend upon the adoption of some system, or the finding ofsome remedy; people with your identical ailments have been healed by all systems and all remedies.
     * The voluntary functions of life are eating, drinking, breathing, and sleeping. These, entirely or in part, are under the direction of a person’s conscious mind; and they can perform them in a perfectly healthy way ifthey will. Ifthey do not perform them in a healthy way, they cannot long be well.
     * Man cannot hope to be well by thinking health if he eats, drinks, breathes, and sleeps like a sick man.
@@ -829,5 +832,36 @@ computational limitations of observers like us.
     * If man will consciously accept the health which is being continually given to him by the Living Substance, and if he will be duly grateful therefore, he will develop faith.
 
 
+    The Science Of Being Great:
+    * Nothing that man can think is impossible in action. Nothing that man can imagine is impos- sible of realization.
+    * Man is formed for growth, and he is under the necessity of growing. It is essential to his happiness that he should continuously advance.
+    * Man has an inherent power by which he may grow in whatsoever direction he pleases, and there does not appear to be any limit to the possibilities ofhis growth.
+    * The Principle of Power in him is in constant action. He is self-active. “He hath life in himself.”
+    * AIl the experiences of life are designed by Providence to force men and women into self-activity; to compel them to cease being creatures ofcircumstances and master their environment.
+    * Nothing was ever in any man that is not in you; no man ever had more spiritual or mental power than you can attain, or did greater things than you can accomplish. You can become what you want to be.
+    * The brain does not make the man; the man makes the brain.
+    * Your place in life is not fixed by heredity.
+    * The power which formed man and purposed him for growth also controls the circumstances ofsociety, industry, and government; and this power is never divided against itself.
+    * Wisdom is the power to perceive the best ends to aim at and the best means for reaching those ends. It is the power to perceive the right thing to do.
+    * Any man who develops the power to perceive truth, and who can show that he always knows the right thing to do and that he can be trusted to do the right thing, will be honored and advanced; the whole world is looking eagerly for such men.
+    * The brain does not think, the man thinks and expresses his thought through the brain.
+    * Nature is as intelligent as man, and knows more than N man; nature knows all things. The All-Mind has been in touch with all things from the beginning; and it contains all knowledge.
+    * Man is a thinking substance, a portion of the Cosmic Substance; but man is limited, while the Cosmic Intelligence from which he sprang, which Jesus calls the Father, is unlimited.
+    * IF you become like God you can read his thoughts; and if you do not you will find the inspirational perception of truth impossible. You can never become a great man or woman until you have overcome anxiety, worry, and fear. It is impossible for an anxious person, a worried one, or a fearful one to perceive truth; all things are distorted and thrown out of their proper relations by such mental states, and those who are in them cannot read the thoughts of God.
+    * You must cast out lust, and cease to be ruled by appetite, and you must begin to govern appetite. You must eat only to satisfy hunger, never for gluttonous pleasure, and in all things you must make the flesh obey the spirit.
+    * Faith—not a faith in one’s self or in one’s own powers but faith in prin- ciple; in the Something Great which upholds right, and which may be relied upon to give us the victory in due time. Without this faith it is not possible for anyone to rise to real greatness.
+    * The man who has no faith in principle will always be a small man. Whether you have this faith or not depends upon your point of view. You must learn to see the world as being produced by evolution; as a something which is evolving and becoming, not as a finished work.
+    * =THIS MUST BE YOUR POINT OF VIEW: THAT THE WORLD AND ALLIT CONTAINS IS PERFECT, THOUGH NOT COMPLETED.=
+
+
+
+    
+** Book: Fundamentals of Digital Logic with Verilog Design 
+** Link: https://www.amazon.com/Fundamentals-Digital-Logic-Verilog-Design/dp/0073380547
+** Notes: 
+    * three main types of chips may be used: standard chips, programmable logic devices, and custom chips.
+    * A designer of digital systems is faced with two basic issues. For an existing logic network, it must be possible to determine the function performed by the network. This task is referred to as the =analysis process=. The reverse task of designing a new network that implements a desired functional behavior is referred to as the =synthesis process=. The analysis process is rather straightforward and much simpler than the synthesis process
+    * A circuit that generates an output that exactly reflects the state of one of a number of data inputs, based on the value of one or more selection control inputs, is called a multiplexer.
+    * 
 
 
